@@ -54,5 +54,5 @@ src/
 ├── App.tsx
 └── main.tsx
 ```
-## 📸 Screenshots
-
+## 📸 Screenshot
+![Screenshot](./public/Screenshot.png)
